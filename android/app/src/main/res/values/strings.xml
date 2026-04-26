@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- android/app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">RouteMatch</string>
+    <string name="accessibility_service_label">RouteMatch — Optimizador de rutas</string>
+    <string name="accessibility_service_description">
+        RouteMatch necesita leer el contenido de Uber Eats, Rappi y DiDi Food
+        para detectar automáticamente nuevos pedidos y comparar si convienen
+        con tu ruta activa. Nunca almacena información personal ni financiera.
+    </string>
+</resources>
